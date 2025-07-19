@@ -1,0 +1,12 @@
+{
+  "name": "my-n8n-instance",
+  "version": "1.0.0",
+  "description": "n8n with custom nodes on Render",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "latest",
+    "n8n-nodes-discord-trigger": "latest"
+  }
+}

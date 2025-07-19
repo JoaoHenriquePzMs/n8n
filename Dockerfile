@@ -1,5 +1,5 @@
 # Start from the official n8n image
-FROM n8n-io/n8n:1.102.4
+FROM n8n-io/n8n:latest
 
 # Switch to the root user to install packages globally
 USER root
